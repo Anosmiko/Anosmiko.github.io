@@ -4,4 +4,4 @@ Datos de plantilla de Bootstrap utilizada:
 	Author: BootstrapMade.com
 	License: https://bootstrapmade.com/license/
 
-Se han realizado los cambios pertinentes para el desafio. Ademas, en vez de incluir un archivo portafolio, este se enceuntra integrado en una seccion de la pagina CV, con vista preliminar a las paginas y links de acceso
+Se han realizado los cambios pertinentes para el desafio. Ademas, en vez de incluir un archivo portafolio, este se encuentra integrado en la seccion Portfolio de la pagina CV, con vista preliminar a las paginas y links de acceso

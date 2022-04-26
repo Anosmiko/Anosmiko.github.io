@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color: black;
+}
+header{
+    background-color: black;
+    height: 110px;
+    line-height: 110px;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+
+}
+.fotoHeader img{
+    width: 100%;
+}
+.texto{
+    background-color: black;
+    height: 38rem;
+    padding-top: 1rem;
+}
+
+.texto p{
+    display: inline-block;
+    color: white;
+    text-align: left;
+    font-size: 29px;
+    padding-top: 10px;
+    padding-left: 11%;
+    width: 40%;
+    
+
+}
+.texto img{
+    width: 29%;
+    height: 61%;
+    padding-left: 9%;
+    padding-top: 3%;
+}
+.caracteristicas{
+    background-color: #1E1A13; 
+    height: 38rem;
+    padding-left: 6%;
+    padding-right: 6%;
+    
+}
+.caracteristicas h2{
+    color: white;
+    font-size: 47px;
+    text-align: center;
+    padding: 4%;
+}
+.caracteristicas-icon-texto{
+    display: inline-block;
+    text-align: center;
+    width: 33%;
+    vertical-align: middle;
+}
+.caracteristicas-icon-texto i{
+    font-size: 8rem;
+    color: white;
+    line-height: 15rem;
+}
+.caracteristicas-icon-texto p{
+    font-size: 2.5rem;
+    color: white;
+    padding-top: 2%;
+} 
+.galeria{
+    background-color: black;
+    height: 38rem; 
+    padding-left: 6%;
+    padding-right: 6%;
+}
+.imagen{
+    display: inline-block;
+    text-align: center;
+    width: 33%;
+    padding-top: 7%;
+}
+.imagen img{
+    width: 500px;
+    height: 320px;
+}
+footer{
+    background-color: #1E1A13;
+    opacity: 94%;
+    height: 7rem;
+}
+footer p {
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    line-height: 7rem;
+}
+    
+

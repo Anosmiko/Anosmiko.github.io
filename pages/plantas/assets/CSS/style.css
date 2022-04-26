@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(201, 218, 201)
+    }
+.header{
+    background-image: url('../img/suculentas.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 6%;
+    
+}
+.textoTransparente {
+    margin: 30px;
+    background-color: rgb(255 255 255 / 47%);
+    color:  #302e2e;
+    font-size: 50px;
+    font-weight: 400; 
+    padding: 3rem 0;
+ }
+.tableProduct{
+    padding-top: 4rem;
+}
+.tableProduct table{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+.dataProduct{
+    width: 15rem;  
+    padding: 0 3rem;
+    text-align: justify;
+}
+.dataProduct h4{
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    text-align: right;
+    
+}
+.dataProduct img{
+    width: 100%;
+    padding: 2.5rem; 
+}
+.barraAntesFooter{
+    height: 1rem;
+    background-color: #97cfb7;
+    margin-top: 2rem;
+}
+footer {
+    height: 5rem;
+    text-align: right;
+    background-color: #c6e1d5;
+    color: #ffffff96;
+    padding-right: 3rem;
+    padding-top: 1rem;;    
+  }
+footer h2{
+    font-size: 2rem;
+}
